@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Kairsten Fay",
+	"author": {
+		"name": "Kairsten Fay",
+		"email": "kairsten.fay@gmail.com",
+		"url": "http://kairstenfay.github.io"
+	},
 	"dependencies": {
 		"express": "^4.14.0"
 	},
